@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="HETZNER" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="HETZNER">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/angular" local="$PROJECT_DIR$/angular/dist" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
